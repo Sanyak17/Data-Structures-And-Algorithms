@@ -15,6 +15,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,9 +57,14 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Math
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
