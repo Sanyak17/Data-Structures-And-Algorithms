@@ -8,6 +8,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -53,10 +54,12 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
