@@ -8,6 +8,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
+| [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -86,4 +87,8 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
