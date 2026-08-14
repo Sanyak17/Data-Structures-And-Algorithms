@@ -6,6 +6,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
@@ -23,6 +24,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 ## Stack
 |  |
@@ -35,6 +37,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -49,6 +52,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
@@ -90,5 +94,6 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
