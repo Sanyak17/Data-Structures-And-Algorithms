@@ -30,21 +30,10 @@ class Solution
                 return false;
             }
         }
-
-        // Try every possible partition
         for (int k = 1; k < n; k++) {
 
-            // Case 1: No swap
-            boolean noSwap =
-                    isScramble(
-                        s1.substring(0, k),
-                        s2.substring(0, k)
-                    )
-                    &&
-                    isScramble(
-                        s1.substring(k),
-                        s2.substring(k)
-                    );
+            boolean noSwap =isScramble(s1.substring(0, k),s2.substring(0, k))&&
+                            isScramble(s1.substring(k),s2.substring(k));
 
             // Case 2: Swap
             boolean swap =
