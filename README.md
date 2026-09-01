@@ -122,4 +122,12 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
