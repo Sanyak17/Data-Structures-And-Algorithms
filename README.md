@@ -19,6 +19,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [3731-find-missing-elements](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,4 +138,5 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
