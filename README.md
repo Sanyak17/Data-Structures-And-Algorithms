@@ -38,6 +38,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
@@ -61,6 +62,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -142,4 +144,8 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3904-smallest-stable-index-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
