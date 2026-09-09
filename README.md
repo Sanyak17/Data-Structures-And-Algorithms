@@ -92,6 +92,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Enumeration
