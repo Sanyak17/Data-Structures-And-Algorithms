@@ -44,15 +44,18 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
 | ------- |
