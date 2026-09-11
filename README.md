@@ -16,6 +16,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
@@ -77,6 +78,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -102,6 +104,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Memoization
 |  |
@@ -116,6 +119,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
