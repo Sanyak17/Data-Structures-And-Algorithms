@@ -159,5 +159,6 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Database
 |  |
 | ------- |
+| [0619-biggest-single-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0619-biggest-single-number) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
