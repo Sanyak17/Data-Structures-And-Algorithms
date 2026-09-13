@@ -11,6 +11,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -41,6 +42,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
 | ------- |
@@ -137,6 +139,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
