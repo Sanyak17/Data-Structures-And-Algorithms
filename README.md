@@ -7,6 +7,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
@@ -27,6 +28,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
@@ -42,6 +44,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 ## Tree
@@ -128,6 +131,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 ## Binary Search
 |  |
@@ -168,4 +172,8 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0619-biggest-single-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0619-biggest-single-number) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
