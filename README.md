@@ -83,6 +83,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
@@ -181,9 +182,18 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
