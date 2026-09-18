@@ -10,6 +10,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
@@ -69,6 +70,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 ## String
 |  |
