@@ -18,6 +18,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
+| [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -67,6 +68,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -148,6 +150,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
+| [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 ## Binary Search
 |  |
@@ -227,4 +230,12 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
