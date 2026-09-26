@@ -15,7 +15,7 @@ class Solution {
         }
         else if(s.charAt(i)=='(')
         {
-            int j=i+1;
+            int j=i+1;//to skip adding "(" to key 
             StringBuilder key=new StringBuilder();
             while(s.charAt(j)!=')')
             {
@@ -23,7 +23,7 @@ class Solution {
                 j++;
                 i++;
             }
-            String val=map.get(key.toString());
+            String val=map.get(key.toString());//key is sb so convert to string
             if(val==null)
             sb.append("?");
             else
