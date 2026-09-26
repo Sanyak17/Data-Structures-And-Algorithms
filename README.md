@@ -23,6 +23,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2126-destroying-asteroids](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2126-destroying-asteroids) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -92,6 +93,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0151-reverse-words-in-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [1592-rearrange-spaces-between-words](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1592-rearrange-spaces-between-words) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Hash Table
@@ -101,6 +103,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0169-majority-element](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
