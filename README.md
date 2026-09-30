@@ -96,6 +96,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [1592-rearrange-spaces-between-words](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Hash Table
@@ -125,6 +126,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0509-fibonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -169,6 +171,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0134-gas-station](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
 | [2126-destroying-asteroids](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2126-destroying-asteroids) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
 | ------- |
