@@ -37,6 +37,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0087-scramble-string) |
@@ -49,6 +50,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 ## Stack
@@ -89,6 +91,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0087-scramble-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -199,6 +202,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
