@@ -66,6 +66,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
@@ -104,6 +105,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0151-reverse-words-in-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
 | [1592-rearrange-spaces-between-words](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -215,6 +217,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0022-generate-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
 |  |
