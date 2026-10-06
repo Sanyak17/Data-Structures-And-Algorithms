@@ -12,6 +12,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
@@ -203,6 +204,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0190-reverse-bits) |
 ## Prefix Sum
 |  |
