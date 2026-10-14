@@ -23,6 +23,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
+| [0812-largest-triangle-area](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0812-largest-triangle-area) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -139,6 +140,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0812-largest-triangle-area) |
 | [1137-n-th-tribonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -273,4 +275,12 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
