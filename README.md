@@ -76,12 +76,14 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
@@ -89,6 +91,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
@@ -271,6 +274,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
 ## Union-Find
