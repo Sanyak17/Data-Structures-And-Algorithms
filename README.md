@@ -12,6 +12,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
@@ -193,6 +194,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [2126-destroying-asteroids](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2126-destroying-asteroids) |
