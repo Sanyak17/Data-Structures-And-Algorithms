@@ -26,6 +26,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0812-largest-triangle-area) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2126-destroying-asteroids](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2126-destroying-asteroids) |
@@ -88,6 +89,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -186,6 +188,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
+| [1254-number-of-closed-islands](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -279,10 +282,12 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0112-path-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 ## Geometry
 |  |
 | ------- |
