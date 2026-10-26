@@ -25,6 +25,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0812-largest-triangle-area) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -56,6 +57,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0509-fibonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1137-n-th-tribonacci-number) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +141,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2126-destroying-asteroids](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2126-destroying-asteroids) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3731-find-missing-elements) |
@@ -193,6 +196,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Greedy
 |  |
 | ------- |
