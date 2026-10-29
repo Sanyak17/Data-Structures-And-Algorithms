@@ -19,6 +19,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0283-move-zeroes](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
 | [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
@@ -72,6 +73,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
@@ -130,6 +132,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0146-lru-cache](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -250,6 +253,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 ## Design
 |  |
