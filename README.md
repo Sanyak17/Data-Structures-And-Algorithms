@@ -7,6 +7,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
@@ -189,6 +190,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
@@ -212,6 +214,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
