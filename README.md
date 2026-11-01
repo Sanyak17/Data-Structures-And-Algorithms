@@ -15,6 +15,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0134-gas-station](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
@@ -106,6 +107,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
@@ -200,6 +202,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Greedy
