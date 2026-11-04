@@ -88,6 +88,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0112-path-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0563-binary-tree-tilt](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0563-binary-tree-tilt) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -96,6 +97,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0112-path-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
+| [0563-binary-tree-tilt](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0563-binary-tree-tilt) |
 | [0695-max-area-of-island](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -104,6 +106,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0112-path-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0563-binary-tree-tilt](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0563-binary-tree-tilt) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Two Pointers
 |  |
@@ -324,4 +327,8 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0563-binary-tree-tilt) |
 <!---LeetCode Topics End-->
