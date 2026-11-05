@@ -21,6 +21,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0283-move-zeroes](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
+| [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
@@ -212,6 +213,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Greedy
 |  |
@@ -236,6 +238,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0053-maximum-subarray](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0190-reverse-bits) |
+| [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -322,13 +325,27 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## DP on Trees
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0563-binary-tree-tilt) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
