@@ -130,6 +130,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
+| [1496-path-crossing](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1496-path-crossing) |
 | [1528-shuffle-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1528-shuffle-string) |
 | [1592-rearrange-spaces-between-words](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1592-rearrange-spaces-between-words) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -145,6 +146,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [1496-path-crossing](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1496-path-crossing) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
