@@ -35,6 +35,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [1254-number-of-closed-islands](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1528-shuffle-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1528-shuffle-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2126-destroying-asteroids](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2126-destroying-asteroids) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -85,6 +86,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0856-score-of-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
@@ -234,6 +236,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0054-spiral-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
@@ -352,4 +355,8 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
