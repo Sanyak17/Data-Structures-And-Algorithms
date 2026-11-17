@@ -30,6 +30,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0766-toeplitz-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0766-toeplitz-matrix) |
 | [0812-largest-triangle-area](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0812-largest-triangle-area) |
+| [1002-find-common-characters](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1002-find-common-characters) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1254-number-of-closed-islands) |
@@ -134,6 +135,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
+| [1002-find-common-characters](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1002-find-common-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1496-path-crossing](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1496-path-crossing) |
 | [1528-shuffle-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1528-shuffle-string) |
@@ -153,6 +155,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [1002-find-common-characters](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1002-find-common-characters) |
 | [1496-path-crossing](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1496-path-crossing) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
