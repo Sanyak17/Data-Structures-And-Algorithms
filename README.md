@@ -86,6 +86,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0735-asteroid-collision](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
@@ -133,6 +134,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0856-score-of-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1496-path-crossing](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1496-path-crossing) |
 | [1528-shuffle-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1528-shuffle-string) |
 | [1592-rearrange-spaces-between-words](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1592-rearrange-spaces-between-words) |
@@ -232,6 +234,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0135-candy](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2126-destroying-asteroids](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
@@ -285,6 +288,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
