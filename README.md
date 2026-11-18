@@ -19,6 +19,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0169-majority-element](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
@@ -62,6 +63,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0087-scramble-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0509-fibonacci-number) |
@@ -227,6 +229,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -372,4 +375,8 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
