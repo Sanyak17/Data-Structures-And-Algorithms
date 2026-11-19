@@ -6,6 +6,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
@@ -178,6 +179,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -218,6 +220,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
