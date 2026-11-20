@@ -18,6 +18,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0136-single-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
@@ -123,6 +124,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0392-is-subsequence) |
@@ -180,6 +182,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
