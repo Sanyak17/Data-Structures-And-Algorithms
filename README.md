@@ -48,6 +48,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -195,6 +196,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -207,6 +209,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3483-unique-3-digit-even-numbers) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Memoization
@@ -390,4 +393,12 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0300-longest-increasing-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
