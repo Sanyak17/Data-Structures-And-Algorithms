@@ -1,0 +1,40 @@
+class Solution {
+    public int uniquePathsWithObstacles(int[][] obstacleGrid) 
+    {
+       return solve(obstacleGrid.length,obstacleGrid[0].length,obstacleGrid);
+    }
+    public int solve(int n,int m, int[][] grid)
+    {
+        int[][] dp=new int[n][m];
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                if(grid[i][j]==1)
+                {
+                    dp[i][j]=0;
+                    continue;
+                }
+                if(i==0&&j==0)
+                {
+                dp[i][j]=1;
+                continue;
+                }
+                int left=0;
+                int up=0;
+                if(i>0)
+                up=dp[i-1][j];
+                if(j>0)
+                left=dp[i][j-1];
+                dp[i][j]=left+up;  
+            }
+        }
+        return dp[n-1][m-1];
+    }
+    // if(i==0&&j==0)
+    // return 1;
+    // if(grid[i][j]==1)
+    // return 0;
+
+
+}
