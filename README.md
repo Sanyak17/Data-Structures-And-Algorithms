@@ -10,6 +10,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0048-rotate-image](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
@@ -63,6 +64,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [0022-generate-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -231,6 +233,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | ------- |
 | [0048-rotate-image](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
