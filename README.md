@@ -198,6 +198,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -268,6 +269,7 @@ These are my LeetCode solutions, auto-pushed daily as I solve problems.
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanyak17/Data-Structures-And-Algorithms/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
